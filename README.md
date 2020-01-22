@@ -11,6 +11,4 @@ Learn from my mistakes, a beginners guide to blockchain technology and cryptocur
 <br> 
   <br>
 <h1>&#x26AB&nbsp;&nbsp;&nbsp;&#x26AB&nbsp;&#x1F407;&nbsp;&nbsp;&#x26AB&nbsp;&nbsp;&nbsp;&#x26AB&nbsp;&nbsp;&nbsp;&#x26AB&#x1F407;&#x26AB&nbsp;&nbsp;&nbsp;&#x26AB&nbsp;&nbsp;&nbsp;&#x26AB&nbsp;&nbsp;&nbsp;&#x26AB&nbsp;&nbsp;&nbsp;&#x1F407;</h1> 
-
-  
-
+<img src="https://www.petsthattravel.com/wp-content/uploads/2019/06/public-transport-rabbit-640x405.jpg”/>
