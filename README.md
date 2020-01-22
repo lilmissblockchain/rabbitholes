@@ -7,7 +7,8 @@ Learn from my mistakes, a beginners guide to blockchain technology and cryptocur
  <br> 
 <h1> &#x1F407; Hello Rabbit &#x1F407;</h1> 
 <br> 
-<body>Below are the holes that left me researching for days, weeks to months on end. Every day I continue to feel like a beginner, an imposter in the blockchain space. Only now, seven years after hearing the word bitcoin that I am finding my voice in this decentralised world. My only hope is that you will become better than I at explaining decentralised technology to your friends, co-workers and families. The choice of whether it is suitable for our future is not something I can answer for you. I am here to present my opinion on the resources I wish I had from the beginning.</body>
+<body>Below are the holes that left me researching for days, weeks to months on end. Each hole will provide and overview of my research, experience and learnings. My only hope is that you will accelerate your learning and contribute your own holes to this project, so that we may decentralise knowledge within the space.
+Disclaimer**** I am here to present my opinion on the resources I wish I had from the beginning, what you do with my opinion is 100% your choice and this is not finacial advise. </body>
 <br> 
   <br>
 <h1>&#x26AB&nbsp;&nbsp;&nbsp;&#x26AB&nbsp;&#x1F407;&nbsp;&nbsp;&#x26AB&nbsp;&nbsp;&nbsp;&#x26AB&nbsp;&nbsp;&nbsp;&#x26AB&#x1F407;&#x26AB&nbsp;&nbsp;&nbsp;&#x26AB&nbsp;&nbsp;&nbsp;&#x26AB&nbsp;&nbsp;&nbsp;&#x26AB&nbsp;&nbsp;&nbsp;&#x1F407;</h1> 
