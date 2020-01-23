@@ -7,14 +7,13 @@ Learn from my mistakes, a beginners guide to blockchain technology and cryptocur
  <br> 
 <h1> &#x1F407; Hello Rabbit &#x1F407;</h1> 
 <br> 
-<body>Below lies the rabbit holes which all consumed me for days, weeks and sometimes more. I have attempted to condense weeks of exploring dead ends, disasters and douches to deliver you with the real value.  
+<body>Below lies the rabbit holes which all consumed me for days, weeks and sometimes more. I have attempted to condense weeks of exploring dead ends, disasters and douches to deliver you with the real value. </body> 
   <br>
-The work presented here will not prevent you from falling down your rabbit holes; instead, I actively encourage you to go an fall down new ones and report back, by contributing your rabbit holes to this project.
+<body>The work presented here will not prevent you from falling down your rabbit holes; instead, I actively encourage you to go an fall down new ones and report back, by contributing your rabbit holes to this project. </body> 
+ <br>
+<body>Together we can accelerate the growth of knowledge within the space. </body> 
   <br>
-Together we can accelerate the growth of knowledge within the space.
-   <br>
-  <br>
-Disclaimer: I am here to present my opinion on the resources I wish I had from the beginning, what you do with my opinion is 100% your choice, this is not financial advice. </body>
+<body>Disclaimer: I am here to present my opinion on the resources I wish I had from the beginning, what you do with my opinion is 100% your choice, this is not financial advice. </body>
 <br> 
   <br>
 <h1>&#x26AB&nbsp;&nbsp;&nbsp;&#x26AB&nbsp;&#x1F407;&nbsp;&nbsp;&#x26AB&nbsp;&nbsp;&nbsp;&#x26AB&nbsp;&nbsp;&nbsp;&#x26AB&#x1F407;&#x26AB&nbsp;&nbsp;&nbsp;&#x26AB&nbsp;&nbsp;&nbsp;&#x26AB&nbsp;&nbsp;&nbsp;&#x26AB&nbsp;&nbsp;&nbsp;&#x1F407;</h1> 
